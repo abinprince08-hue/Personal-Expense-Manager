@@ -1,0 +1,9 @@
+FLASK_SECRET_KEY=replace-with-a-long-random-secret
+MYSQL_HOST=your-aiven-host
+MYSQL_PORT=3306
+MYSQL_DATABASE=defaultdb
+MYSQL_USER=avnadmin
+MYSQL_PASSWORD=your-database-password
+MYSQL_SSL=true
+MYSQL_SSL_CA=
+INIT_DB=true
